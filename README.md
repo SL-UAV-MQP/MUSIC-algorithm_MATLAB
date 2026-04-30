@@ -1,4 +1,4 @@
-This repository contains MATLAB code executing the MUltiple SIgnal Classification (MUSIC) algorithmm for a 6-element Uniform-Circular-Array for analysis and display.
+This repository contains MATLAB code executing the MUltiple SIgnal Classification (MUSIC) algorithm for a 6-element Uniform-Circular-Array for analysis and display.
 
 This code is entirely simulated and does not contain real-world measurements or hardware interfaces.
 
